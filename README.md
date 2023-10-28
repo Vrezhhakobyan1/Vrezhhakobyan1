@@ -1,6 +1,6 @@
 ![Header](https://github.com/Vrezhhakobyan1/Vrezhhakobyan1/blob/main/assets/header.png)
 
-## I,m a Software QA Engineer.
+## I am a Software QA Engineer.
 
 Latest Youtube Videos
 
