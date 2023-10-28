@@ -1,6 +1,6 @@
-Header
+[Header](https://github.com/Vrezhhakobyan1/Vrezhhakobyan1/blob/main/assets/header.png)
 
-About me 
+## I,m a Software QA Engineer.
 
 Latest Youtube Videos
 
