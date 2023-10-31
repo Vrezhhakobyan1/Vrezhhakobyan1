@@ -24,7 +24,5 @@ Latest Youtube Videos
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&)
 ![CSS](https://img.shields.io/badge/-Css-black?style=for-the-badge)
 
-
-
-
-Follow Me
+### Follow Me
+![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue)
