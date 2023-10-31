@@ -25,4 +25,4 @@ Latest Youtube Videos
 ![CSS](https://img.shields.io/badge/-Css-black?style=for-the-badge)
 
 ### Follow Me
-![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/-hakobyan/)
