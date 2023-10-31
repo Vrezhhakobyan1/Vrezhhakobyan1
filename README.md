@@ -1,8 +1,14 @@
 ![Header](https://github.com/Vrezhhakobyan1/Vrezhhakobyan1/blob/main/assets/header.png)
 
-## I am a Software QA Engineer.
+## I am a Software QA Engineer. 
 
-Latest Youtube Videos
+## About me
+I am very confident about the knowledge I have and I treat work responsibly․ I do my tasks
+on time and I have great interests to develop in the field of testing. I think automation is
+important in testing. I have started learning Java and I already have basic knowledge. I'm
+sure that soon I'll be able to write autotests. I worked as a Presenter(tester), where I tested
+products and projects prior to their presentation. I can switch from one programming
+language to another.
 
 ### Languages and  Tools 
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
