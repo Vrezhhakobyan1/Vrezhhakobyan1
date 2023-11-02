@@ -11,8 +11,10 @@ products and projects prior to their presentation. I can switch from one program
 language to another.
 
 ### Testing documentation
--[Checklists](https://github.com/Vrezhhakobyan1/Testing-Checklists)
-
+- [Checklists](https://github.com/Vrezhhakobyan1/Testing-Checklists)
+- [Test Suites and Test Cases ](https://github.com/Vrezhhakobyan1/Test-Suites-and-Test-Cases)
+- [Test Cases 2](https://github.com/Vrezhhakobyan1/Test-Cases-2)
+- [Bag Reports](https://github.com/Vrezhhakobyan1/Bag-Reports)
 
 
 ### Languages and  Tools 
