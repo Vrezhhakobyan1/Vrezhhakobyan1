@@ -1,6 +1,6 @@
 ![Header](https://github.com/Vrezhhakobyan1/Vrezhhakobyan1/blob/main/assets/header.png)
 
-## I am a Software QA Engineer. 
+## I am a Software QA Engineer.
 
 ## About me
 I am very confident about the knowledge I have and I treat work responsibly․ I do my tasks
@@ -39,3 +39,5 @@ language to another.
 
 ### Follow Me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/-hakobyan/)
+
+[![Vrezh Hakobyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vrezhhakobyan1&hide=stars,prs,contribs&show_icons=true)](https://github.com/Vrezhhakobyan1/github-readme-stats)
