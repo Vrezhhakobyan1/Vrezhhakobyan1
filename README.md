@@ -5,7 +5,7 @@
 ## About me
 I am very confident about the knowledge I have and I treat work responsibly․ I do my tasks
 on time and I have great interests to develop in the field of testing. I think automation is
-important in testing. I have started learning Java and I already have basic knowledge. I'm
+important in testing. I have started learning JavaScript and I already have basic knowledge. I'm
 sure that soon I'll be able to write autotests. I worked as a Presenter(tester), where I tested
 products and projects prior to their presentation. I can switch from one programming
 language to another.
@@ -24,6 +24,7 @@ language to another.
 ![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=Jira&logoColor=blue)
 ![TestRail](https://img.shields.io/badge/-TestRail-black?style=for-the-badge&logo=testrail)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=for-the-badge&logo=IntelliJIDEA)
+![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-black?style=for-the-badge&logo=Visualstudiocode&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-black?style=for-the-badge)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-black?style=for-the-badge)
@@ -32,6 +33,7 @@ language to another.
 ![MS Word](https://img.shields.io/badge/-MSWord-black?style=for-the-badge&logo=microsoftWord&logoColor=blue)
 ![MS Excel](https://img.shields.io/badge/-MSExcel-black?style=for-the-badge&logo=microsoftexcel&logoColor=green)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge)
 ![XML](https://img.shields.io/badge/-XML-black?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&)
