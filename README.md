@@ -3,11 +3,18 @@
 ## I am a Software QA Engineer.
 
 ## About me
-I am very confident about the knowledge I have and I treat work responsibly․ I do my tasks
-on time and I have great interests to develop in the field of testing. I think automation is
-important in testing. I have started learning JavaScript and I already have basic knowledge. I'm
-sure that soon I'll be able to write autotests. I worked as a Presenter(tester), where I tested
-products and projects prior to their presentation. I can switch from one programming
+I am very confident about the knowledge I have and
+I treat work responsibly․ I do my tasks on time and I
+have great interests to develop in the field of testing. I
+have a deep understanding of Frontend architecture,
+strong knowledge of Testing Theory, SDLC processes,
+as well as a long experience of using Black Box testing
+method. I think automation is important in testing. I
+have started learning JavaScript and I already have
+basic knowledge. I'm sure that soon I'll be able to write
+autotests. I worked as a Presenter(QA Engineer), where
+I tested products and projects prior to their
+presentation. I can switch from one programming
 language to another.
 
 ### Testing documentation
