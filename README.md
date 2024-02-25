@@ -17,11 +17,10 @@ I tested products and projects prior to their
 presentation. I can switch from one programming
 language to another.
 
-### Testing documentation
-- [Checklists](https://github.com/Vrezhhakobyan1/Testing-Checklists)
-- [Test Suites and Test Cases ](https://github.com/Vrezhhakobyan1/Test-Suites-and-Test-Cases)
-- [Test Cases 2](https://github.com/Vrezhhakobyan1/Test-Cases-2)
-- [Bag Reports](https://github.com/Vrezhhakobyan1/Bag-Reports)
+### My Works
+ - [REPOSITORIES](https://github.com/Vrezhhakobyan1?tab=repositories)
+
+
 
 
 ### Languages and  Tools 
