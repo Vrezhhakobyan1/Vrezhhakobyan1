@@ -48,4 +48,3 @@ language to another.
 ### Follow Me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/-hakobyan/)
 
-![Vrezh Hakobyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vrezhhakobyan1&hide=stars,prs,contribs&theme=dark&show_icons=true)
